@@ -1,4 +1,3 @@
-# ads.txt:2018-10-26T09:36:50+02:00
 # emgag/wasd/wmpag
 appnexus.com,1851,RESELLER,f5ab79cb980f11d1
 appnexus.com,3528,RESELLER,f5ab79cb980f11d1
