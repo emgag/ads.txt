@@ -2,7 +2,9 @@ package main
 
 import (
 	"bufio"
+	"encoding/csv"
 	"fmt"
+	"io"
 	"io/ioutil"
 	"log"
 	"os"
@@ -62,6 +64,31 @@ func ParseRow(row string) (*Record, error) {
 
 func main() {
 
+	// load authority ids
+	authorities := make(map[string]string)
+
+	authf, err := os.Open("authorities.csv")
+	defer authf.Close()
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	auth := csv.NewReader(authf)
+
+	for {
+		record, err := auth.Read()
+		if err == io.EOF {
+			break
+		}
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		authorities[record[0]] = record[1]
+	}
+
+	// load and parse ads.txt parts
 	dir := "./parts"
 	rows := make(map[string]*Record)
 	log.SetOutput(os.Stderr)
@@ -86,6 +113,10 @@ func main() {
 
 				if err != nil {
 					log.Printf("%s: %s\n", err, scanner.Text())
+				}
+
+				if id, ok := authorities[r.Advertiser]; ok {
+					r.AuthorityID = id
 				}
 
 				rows[r.UniqueID()] = r
