@@ -105,8 +105,6 @@ func main() {
 			log.Fatal(err)
 		}
 
-		defer f.Close()
-
 		scanner := bufio.NewScanner(f)
 
 		for scanner.Scan() {
@@ -125,6 +123,7 @@ func main() {
 			}
 		}
 
+		f.Close()
 	}
 
 	out := []string{}
