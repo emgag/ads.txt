@@ -100,6 +100,7 @@ func main() {
 
 	for _, file := range files {
 		f, err := os.Open(filepath.Join(dir, file.Name()))
+		defer f.Close()
 
 		if err != nil {
 			log.Fatal(err)
