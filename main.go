@@ -63,16 +63,16 @@ func ParseRow(row string) (*Record, error) {
 }
 
 func main() {
-
 	// load authority ids
 	authorities := make(map[string]string)
 
 	authf, err := os.Open("authorities.csv")
-	defer authf.Close()
 
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	defer authf.Close()
 
 	auth := csv.NewReader(authf)
 
@@ -100,11 +100,12 @@ func main() {
 
 	for _, file := range files {
 		f, err := os.Open(filepath.Join(dir, file.Name()))
-		defer f.Close()
 
 		if err != nil {
 			log.Fatal(err)
 		}
+
+		defer f.Close()
 
 		scanner := bufio.NewScanner(f)
 
