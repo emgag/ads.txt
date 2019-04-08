@@ -1,0 +1,3 @@
+# feedad
+stroeer.com,17447,RESELLER
+yieldlab.net,2172218,RESELLER
