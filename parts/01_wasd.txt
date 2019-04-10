@@ -34,6 +34,7 @@ smartstream.tv,4915,RESELLER
 smartstream.tv,4919,RESELLER
 smartstream.tv,4921,RESELLER
 smartstream.tv,4925,RESELLER
+smartstream.tv,6655,RESELLER
 sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
 spotx.tv,108933,RESELLER,7842df1d2fe2db34
 spotx.tv,113481,RESELLER,7842df1d2fe2db34
