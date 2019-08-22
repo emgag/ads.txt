@@ -1,3 +1,13 @@
 # feedad
-stroeer.com,17447,RESELLER
-yieldlab.net,2172218,RESELLER
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+emxdgt.com,1247,DIRECT,1e1d41537f7cad7f
+freewheel.tv,999985,DIRECT
+freewheel.tv,1000001,DIRECT
+google.com,pub-2468262778002506,DIRECT,f08c47fec0942fa0
+google.com,pub-5995202563537249,RESELLER,f08c47fec0942fa0
+improvedigital.com,1259,RESELLER
+smartadserver.com,3450,DIRECT
+spotx.tv,259421,DIRECT,7842df1d2fe2db34
+spotxchange.com,259421,DIRECT,7842df1d2fe2db34
+yieldlab.net,227224,DIRECT
+yieldlab.net,8295301,DIRECT
