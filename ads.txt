@@ -1,4 +1,4 @@
-# ads.txt:2020-03-11T16:03:13Z
+# ads.txt:2020-03-11T18:28:54Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 4aolcloud.net,4819,RESELLER
