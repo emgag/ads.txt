@@ -1,4 +1,4 @@
-# ads.txt:2020-04-07T20:12:15Z
+# ads.txt:2020-04-23T14:46:11Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 4aolcloud.net,4819,RESELLER
@@ -14,6 +14,7 @@ adform.com,1943,RESELLER
 adform.com,2110,RESELLER
 adform.com,2112,RESELLER
 adform.com,2438,RESELLER
+adform.com,2579,DIRECT,9f5210a2f0999e32
 adform.com,622,RESELLER
 adform.com,648,RESELLER
 adform.com,96,RESELLER
@@ -84,7 +85,7 @@ contextweb.com,560288,RESELLER,89ff185a4c4e857c
 contextweb.com,560382,RESELLER,89ff185a4c4e857c
 contextweb.com,561910,RESELLER,89ff185a4c4e857c
 coxmt.com,2000067995202,RESELLER
-dailymotion.com,197345,DIRECT�,fd25240165056a01
+dailymotion.com,197345,DIRECT,fd25240165056a01
 dailymotion.com,98201548,DIRECT,fd25240165056a01
 districtm.io,101760,RESELLER,3fd707be9c4527c3
 districtm.io,101856,RESELLER,3fd707be9c4527c3
@@ -213,6 +214,7 @@ google.com,pub-3004436243331931,DIRECT,f08c47fec0942fa0
 google.com,pub-3057818873023700,RESELLER,f08c47fec0942fa0
 google.com,pub-3391297137506159,RESELLER,f08c47fec0942fa0
 google.com,pub-3762254771375579,RESELLER,f08c47fec0942fa0
+google.com,pub-4177491661596750,RESELLER,f08c47fec0942fa0
 google.com,pub-4560331049790501,RESELLER,f08c47fec0942fa0
 google.com,pub-4939634212290203,RESELLER,f08c47fec0942fa0
 google.com,pub-4979986541055910,RESELLER,f08c47fec0942fa0
