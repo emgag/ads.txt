@@ -2,7 +2,7 @@
 # https://www.dailymotion.com/partner/xtpyzh/embed/websites
 nsightvideo.com,49920605,DIRECT,fd25240165056a01 # filmtv
 appnexus.com,1537142,RESELLER # filmtv
-#dailymotion, version 1.07, 2020/03/26
+#dailymotion, version 1.08, 2020/04/09
 freewheel.tv,899777,DIRECT
 freewheel.tv,982545,DIRECT
 freewheel.tv,982529,DIRECT
@@ -296,7 +296,7 @@ video.unrulymedia.com,UNRX-PUB-29cfa292-1a2e-434d-8806-9a0ec14ceca7,RESELLER
 indexexchange.com,182257,RESELLER
 appnexus.com,6849,RESELLER
 rubiconproject.com,15268,RESELLER
-dailymotion.com,197345, DIRECT�
+dailymotion.com,197345,DIRECT
 dailymotion.com,98201548,DIRECT,fd25240165056a01
 #v1.02
 synacor.com,82101,RESELLER, e108f11b2cdf7d5b
@@ -338,4 +338,7 @@ google.com,pub-1172870656034468,RESELLER,f08c47fec0942fa0
 teads.tv,18987,RESELLER,15a9c44f6d26cbe1
 #v1.07
 google.com,pub-5610649146674306,RESELLER,f08c47fec0942fa0
+#v1.08
+google.com,pub-4177491661596750,RESELLER,f08c47fec0942fa0
+adform.com,2579,DIRECT,9f5210a2f0999e32
 #end
