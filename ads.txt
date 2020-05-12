@@ -1,4 +1,4 @@
-# ads.txt:2020-04-23T14:46:11Z
+# ads.txt:2020-05-12T13:32:55Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 4aolcloud.net,4819,RESELLER
@@ -37,7 +37,7 @@ advertising.com,28458,RESELLER
 advertising.com,3531,RESELLER
 advertising.com,8603,RESELLER
 advertising.com,8791,RESELLER
-adyoulike.com,b4bf4fdd9b0b915f746f6747ff432bde,RESELLER
+adyoulike.com,b4bf4fdd9b0b915f746f6747ff432bde,RESELLER,4ad745ead2958bf7
 aol.com,53392,RESELLER
 aol.com,7801,RESELLER
 aolcloud.net,4812,RESELLER
