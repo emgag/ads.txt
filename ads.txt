@@ -1,4 +1,4 @@
-# ads.txt:2020-07-09T13:43:34Z
+# ads.txt:2020-09-22T08:30:45Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 4aolcloud.net,4819,RESELLER
@@ -38,6 +38,7 @@ advertising.com,27287,DIRECT,e1a5b5b6e3255540
 advertising.com,28335,DIRECT,e1a5b5b6e3255540
 advertising.com,28458,RESELLER,e1a5b5b6e3255540
 advertising.com,28488,RESELLER,e1a5b5b6e3255540
+advertising.com,28833,DIRECT,e1a5b5b6e3255540
 advertising.com,3531,RESELLER,e1a5b5b6e3255540
 advertising.com,8603,RESELLER,e1a5b5b6e3255540
 advertising.com,8791,RESELLER,e1a5b5b6e3255540
@@ -80,7 +81,7 @@ appnexus.com,9923,RESELLER,f5ab79cb980f11d1
 appnexus.com,994,RESELLER,f5ab79cb980f11d1
 appnexus.com,9994,DIRECT,f5ab79cb980f11d1
 aps.amazon.com,3204,RESELLER
-aps.amazon.com,f67fb912-2d88-4326-8009-bd2154299562,RESELLER
+aps.amazon.com,f67fb912-2d88-4326-8009-bd2154299562,DIRECT
 beachfront.com,108,RESELLER,e2541279e8e2ca4d
 beachfront.com,12983,RESELLER,e2541279e8e2ca4d
 beachfront.com,13749,RESELLER,e2541279e8e2ca4d
@@ -229,6 +230,7 @@ google.com,pub-4177491661596750,RESELLER,f08c47fec0942fa0
 google.com,pub-4560331049790501,RESELLER,f08c47fec0942fa0
 google.com,pub-4573231550355221,RESELLER,f08c47fec0942fa0
 google.com,pub-4939634212290203,RESELLER,f08c47fec0942fa0
+google.com,pub-4968145218643279,DIRECT,f08c47fec0942fa0
 google.com,pub-4979986541055910,RESELLER,f08c47fec0942fa0
 google.com,pub-5192618204358860,DIRECT,f08c47fec0942fa0
 google.com,pub-5512390705137507,RESELLER,f08c47fec0942fa0
@@ -273,12 +275,14 @@ indexexchange.com,188350,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,188838,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,189066,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,189855,DIRECT,50b1c356f2c5c8fc
+indexexchange.com,192410,RESELLER,50b1c356f2c5c8fc
 lijit.com,264726,RESELLER,fafdf38b16bf6b2b
 lkqd.com,410,RESELLER,59c49fa9598a0117
 lkqd.com,51,RESELLER,59c49fa9598a0117
 lkqd.net,307,RESELLER,59c49fa9598a0117
 lkqd.net,410,RESELLER,59c49fa9598a0117
 lkqd.net,51,RESELLER,59c49fa9598a0117
+loopme.com,10073,RESELLER,6c8d5f95897a5a3b
 loopme.com,10876,RESELLER,6c8d5f95897a5a3b
 loopme.com,5679,RESELLER,6c8d5f95897a5a3b
 loopme.com,s-2411,RESELLER,6c8d5f95897a5a3b
@@ -337,7 +341,6 @@ rhythmone.com,1166984029,RESELLER,a670c89d4a324e47
 rhythmone.com,1878624802,RESELLER,a670c89d4a324e47
 rhythmone.com,2564526802,RESELLER,a670c89d4a324e47
 rhythmone.com,2968119028,RESELLER,a670c89d4a324e47
-rtk.io,481,RESELLER
 rubiconproject.com,11394,RESELLER,0bfd66d529a55807
 rubiconproject.com,11762,RESELLER,0bfd66d529a55807
 rubiconproject.com,13132,RESELLER,0bfd66d529a55807
@@ -366,7 +369,7 @@ smartadserver.com,2060,RESELLER
 smartadserver.com,2079,RESELLER
 smartadserver.com,2373,RESELLER
 smartadserver.com,2499,RESELLER
-smartadserver.com,3160,RESELLER
+smartadserver.com,3160,DIRECT
 smartadserver.com,3161,RESELLER
 smartadserver.com,3450,DIRECT
 smartadserver.com,3563,RESELLER
@@ -377,13 +380,11 @@ smartclip.net,10213,RESELLER
 smartclip.net,10219,RESELLER
 smartclip.net,10220,RESELLER
 smartclip.net,10221,RESELLER
-smartclip.net,11333,RESELLER
 smartclip.net,2898,RESELLER
 smartclip.net,428,DIRECT
 smartclip.net,6780,RESELLER
 smartclip.net,855,RESELLER
 smartclip.net,9098,RESELLER
-smartclip.net,9665,RESELLER
 smartstream.tv,2847,RESELLER
 smartstream.tv,3003,RESELLER
 smartstream.tv,3149,RESELLER
@@ -415,6 +416,7 @@ spotx.tv,245212,RESELLER,7842df1d2fe2db34
 spotx.tv,249186,RESELLER,7842df1d2fe2db34
 spotx.tv,259421,DIRECT,7842df1d2fe2db34
 spotx.tv,71451,RESELLER,7842df1d2fe2db34
+spotx.tv,82069,RESELLER,7842df1d2fe2db34
 spotx.tv,95719,RESELLER,7842df1d2fe2db34
 spotxchange.com,108933,RESELLER,7842df1d2fe2db34
 spotxchange.com,113481,RESELLER,7842df1d2fe2db34
@@ -430,14 +432,17 @@ spotxchange.com,245212,RESELLER,7842df1d2fe2db34
 spotxchange.com,249186,RESELLER,7842df1d2fe2db34
 spotxchange.com,259421,DIRECT,7842df1d2fe2db34
 spotxchange.com,71451,RESELLER,7842df1d2fe2db34
+spotxchange.com,82069,RESELLER,7842df1d2fe2db34
 spotxchange.com,95719,RESELLER,7842df1d2fe2db34
 springserve.com,843,RESELLER,a24eb641fc82e93d
 ssp.ynxs.io,185,RESELLER
 synacor.com,82101,RESELLER,e108f11b2cdf7d5b
+synacor.com,82239,RESELLER,e108f11b2cdf7d5b
 taboola.com,1168123,DIRECT,c228e6794e811952
 teads.tv,13604,DIRECT,15a9c44f6d26cbe1
 teads.tv,13696,RESELLER,15a9c44f6d26cbe1
 teads.tv,18987,RESELLER,15a9c44f6d26cbe1
+telaria.com,noedw-k0ayc,RESELLER,1a4e959a1b50034a
 themediagrid.com,Q8BSV3,DIRECT,35d5010d7789b49d
 thetradedesk.com,2747,RESELLER
 thetradedesk.com,7769,RESELLER
@@ -454,7 +459,10 @@ vi.ai,575251357960979,RESELLER
 video.unrulymedia.com,1878624802,DIRECT
 video.unrulymedia.com,UNRX-PUB-29cfa292-1a2e-434d-8806-9a0ec14ceca7,RESELLER
 video.unrulymedia.com,UNRX-PUB-58b038d8-6dd6-4453-8049-f8232bb8c5f3,DIRECT
+viralize.com,4791,DIRECT
 xad.com,958,RESELLER,81cbf0a75a5e0e9a
+yahoo.com,57379,DIRECT
+yieldlab.net,11114007,DIRECT
 yieldlab.net,163835,DIRECT
 yieldlab.net,163835,RESELLER
 yieldlab.net,2172218,RESELLER
