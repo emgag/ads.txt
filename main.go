@@ -88,6 +88,14 @@ func main() {
 		authorities[record[0]] = record[1]
 	}
 
+	// prepare file header
+	header := []string{
+		fmt.Sprintf("# ads.txt:%s", time.Now().Format(time.RFC3339)),
+		"contact=sales@wasdmedia.de",
+		"contact=https://wasdmedia.de/",
+		"# ---",
+	}
+
 	// load and parse ads.txt parts
 	dir := "./parts"
 	rows := make(map[string]*Record)
@@ -108,19 +116,30 @@ func main() {
 		scanner := bufio.NewScanner(f)
 
 		for scanner.Scan() {
-			if row := strings.TrimSpace(scanner.Text()); row[0] != '#' {
-				r, err := ParseRow(row)
+			row := strings.TrimSpace(scanner.Text())
 
-				if err != nil {
-					log.Printf("%s: %s\n", err, scanner.Text())
+			if row[0] == '#' {
+				if strings.HasPrefix(row, "#dailymotion") {
+					header = append(header, "# dailymotion ads.txt version:")
+					header = append(header, row)
 				}
 
-				if id, ok := authorities[r.Advertiser]; ok {
-					r.AuthorityID = id
-				}
-
-				rows[r.UniqueID()] = r
+				continue
 			}
+
+			r, err := ParseRow(row)
+
+			if err != nil {
+				log.Printf("%s: %s\n", err, scanner.Text())
+				continue
+			}
+
+			if id, ok := authorities[r.Advertiser]; ok {
+				r.AuthorityID = id
+			}
+
+			rows[r.UniqueID()] = r
+
 		}
 
 		f.Close()
@@ -134,13 +153,13 @@ func main() {
 
 	sort.Strings(out)
 
-	// print header
-	fmt.Printf("# ads.txt:%s\n", time.Now().Format(time.RFC3339))
-	// print contact info
-	fmt.Println("contact=sales@wasdmedia.de")
-	fmt.Println("contact=https://wasdmedia.de/")
+	for _, h := range header {
+		fmt.Println(h)
+	}
+
+	fmt.Println("# ---")
 
 	for _, o := range out {
-		fmt.Printf("%s\n", o)
+		fmt.Println(o)
 	}
 }
