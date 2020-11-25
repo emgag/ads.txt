@@ -2,7 +2,7 @@
 # https://www.dailymotion.com/partner/xtpyzh/embed/websites
 nsightvideo.com,49920605,DIRECT,fd25240165056a01 # filmtv
 appnexus.com,1537142,RESELLER
-#dailymotion-v1.12-2020-10-30
+#dailymotion-v1.13-2020-11-17
 freewheel.tv,899777,DIRECT
 freewheel.tv,901025,RESELLER
 springserve.com,843,RESELLER,a24eb641fc82e93d
@@ -35,9 +35,9 @@ spotx.tv,113481,RESELLER,7842df1d2fe2db34
 appnexus.com,8904,RESELLER,f5ab79cb980f11d1
 pubmatic.com,100531,RESELLER,5d62403b186f2ace
 openx.com,537148817,RESELLER,6a698e2ec38604c6
-google.com,pub-3057818873023700,RESELLER, f08c47fec0942fa0
-appnexus.com,3741,RESELLER, f5ab79cb980f11d1
-appnexus.com,9242,RESELLER, f5ab79cb980f11d2
+google.com,pub-3057818873023700,RESELLER,f08c47fec0942fa0
+appnexus.com,3741,RESELLER,f5ab79cb980f11d1
+appnexus.com,9242,RESELLER,f5ab79cb980f11d2
 freewheel.tv,170809,RESELLER
 freewheel.tv,175881,RESELLER
 google.com,pub-0928917523760106,RESELLER,f08c47fec0942fa0
@@ -48,6 +48,8 @@ smartclip.net,855,RESELLER
 smartclip.net,9098,RESELLER
 google.com,pub-8674340505315230,RESELLER,f08c47fec0942fa0
 google.com,pub-7197632655386039,RESELLER,f08c47fec0942fa0
+onetag.com,59d216e971852f2,RESELLER
+appnexus.com,10617,RESELLER
 admixer.net,10248498-454d-49a4-a789-acb8fe837f59,RESELLER
 google.com,pub-0627101520158699,RESELLER,f08c47fec0942fa0
 freewheel.tv,2493,RESELLER
@@ -220,13 +222,13 @@ rubiconproject.com,15268,RESELLER,0bfd66d529a55807
 rhythmone.com,1107452720,RESELLER,a670c89d4a324e47
 video.unrulymedia.com,1107452720,RESELLER
 #v1.02
-synacor.com,82101,RESELLER, e108f11b2cdf7d5b
-advertising.com,19623, RESELLER
+synacor.com,82101,RESELLER,e108f11b2cdf7d5b
+advertising.com,19623,RESELLER
 openx.com,540634634,RESELLER,6a698e2ec38604c6
-EMXDGT.com,1251, RESELLER, 1e1d41537f7cad7f
-appnexus.com,1356, RESELLER,f5ab79cb980f11d1
-triplelift.com,2961,RESELLER, 6c33edb13117fd86
-appnexus.com,1314, RESELLER,f5ab79cb980f11d1
+EMXDGT.com,1251,RESELLER,1e1d41537f7cad7f
+appnexus.com,1356,RESELLER,f5ab79cb980f11d1
+triplelift.com,2961,RESELLER,6c33edb13117fd86
+appnexus.com,1314,RESELLER,f5ab79cb980f11d1
 sharethrough.com,0177541a,RESELLER,d53b998a7bd4ecd2
 #v1.03
 indexexchange.com,189855,RESELLER,50b1c356f2c5c8fc
@@ -265,7 +267,6 @@ adform.com,2579,RESELLER,9f5210a2f0999e32
 #v1.09
 google.com,pub-8834194653550774,RESELLER,f08c47fec0942fa0
 google.com,pub-3737030722290655,RESELLER,f08c47fec0942fa0
-google.com,pub-8929667634210480,RESELLER,f08c47fec0942fa0
 appnexus.com,3925,RESELLER,f5ab79cb980f11d1
 #v1.10
 smartclip.net,10451,RESELLER
@@ -278,8 +279,8 @@ pubmatic.com,156538,RESELLER,5d62403b186f2ace
 rubiconproject.com,13510,RESELLER,0bfd66d529a55807
 smartadserver.com,2640,RESELLER
 smartadserver.com,2441,RESELLER
-spotxchange.com,173175,RESELLER, 7842df1d2fe2db34
-spotx.tv,173175,RESELLER, 7842df1d2fe2db34
+spotxchange.com,173175,RESELLER,7842df1d2fe2db34
+spotx.tv,173175,RESELLER,7842df1d2fe2db34
 #v1.11
 districtm.io,100025,RESELLER,3fd707be9c4527c3
 #v1.12
@@ -289,3 +290,6 @@ smartadserver.com,3433,RESELLER
 axonix.com,57264,RESELLER
 admanmedia.com,43,RESELLER
 indexexchange.com,191385,RESELLER,50b1c356f2c5c8fc
+#v1.13
+google.com,pub-5459209596458886,RESELLER,f08c47fec0942fa0
+google.com,pub-8929667634210480,RESELLER,f08c47fec0942fa0
