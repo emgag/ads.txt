@@ -1,9 +1,9 @@
-# ads.txt:2020-11-25T13:02:49Z
+# ads.txt:2020-11-27T11:02:37Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
 # dailymotion ads.txt version:
-#dailymotion-v1.13-2020-11-17
+#dailymotion-v1.14-2020-11-23
 # ---
 4aolcloud.net,4819,RESELLER
 9mediaonline.com,1a34c,RESELLER
@@ -18,6 +18,8 @@ adform.com,2110,RESELLER,9f5210a2f0999e32
 adform.com,2112,RESELLER,9f5210a2f0999e32
 adform.com,2438,RESELLER,9f5210a2f0999e32
 adform.com,2579,RESELLER,9f5210a2f0999e32
+adform.com,2673,RESELLER,9f5210a2f0999e32
+adform.com,2685,RESELLER,9f5210a2f0999e32
 adform.com,622,RESELLER,9f5210a2f0999e32
 adform.com,96,RESELLER,9f5210a2f0999e32
 admanmedia.com,43,RESELLER
@@ -76,7 +78,7 @@ appnexus.com,7596,RESELLER,f5ab79cb980f11d1
 appnexus.com,8233,RESELLER,f5ab79cb980f11d1
 appnexus.com,884,DIRECT#,f5ab79cb980f11d1
 appnexus.com,8904,RESELLER,f5ab79cb980f11d1
-appnexus.com,9242,RESELLER,f5ab79cb980f11d1
+appnexus.com,9242,RESELLER,f5ab79cb980f11d2
 appnexus.com,9393,RESELLER,f5ab79cb980f11d1
 appnexus.com,956,RESELLER,f5ab79cb980f11d1
 appnexus.com,9624,RESELLER,f5ab79cb980f11d1
@@ -186,6 +188,7 @@ google.com,pub-3004436243331931,DIRECT,f08c47fec0942fa0
 google.com,pub-3057818873023700,RESELLER,f08c47fec0942fa0
 google.com,pub-3737030722290655,RESELLER,f08c47fec0942fa0
 google.com,pub-4177491661596750,RESELLER,f08c47fec0942fa0
+google.com,pub-4402427756333803,RESELLER,f08c47fec0942fa0
 google.com,pub-4560331049790501,RESELLER,f08c47fec0942fa0
 google.com,pub-4573231550355221,RESELLER,f08c47fec0942fa0
 google.com,pub-4939634212290203,RESELLER,f08c47fec0942fa0
@@ -221,7 +224,6 @@ improvedigital.com,185,RESELLER
 improvedigital.com,335,RESELLER
 improvedigital.com,410,RESELLER
 improvedigital.com,545,RESELLER
-improvedigital.com,755,RESELLER
 indexexchange.com,175407,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,179394,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,182257,RESELLER,50b1c356f2c5c8fc
@@ -294,6 +296,7 @@ pubmatic.com,158154,RESELLER,5d62403b186f2ace
 pubmatic.com,158452,RESELLER,5d62403b186f2ace
 pubmatic.com,158541,RESELLER,5d62403b186f2ace
 pubmatic.com,159277,RESELLER,5d62403b186f2ace
+pubmatic.com,159796,RESELLER,5d62403b186f2ace
 pubmatic.com,39374,RESELLER,5d62403b186f2ace
 pubmatic.com,73785,RESELLER,5d62403b186f2ace
 pubnative.net,1006576,RESELLER,d641df8625486a7b
@@ -324,6 +327,7 @@ rubiconproject.com,17962,RESELLER,0bfd66d529a55807
 rubiconproject.com,18024,RESELLER,0bfd66d529a55807
 rubiconproject.com,20744,RESELLER,0bfd66d529a55807
 rubiconproject.com,21426,RESELLER,0bfd66d529a55807
+rubiconproject.com,22782,RESELLER,0bfd66d529a55807
 rubiconproject.com,8769,RESELLER,0bfd66d529a55807
 sharethrough.com,0177541a,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,e6afc1ec,RESELLER,d53b998a7bd4ecd2
