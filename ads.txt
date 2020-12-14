@@ -1,9 +1,9 @@
-# ads.txt:2020-11-27T11:02:37Z
+# ads.txt:2020-12-14T10:14:04Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
 # dailymotion ads.txt version:
-#dailymotion-v1.14-2020-11-23
+#dailymotion-v1.15-2020-12-10
 # ---
 4aolcloud.net,4819,RESELLER
 9mediaonline.com,1a34c,RESELLER
@@ -78,7 +78,7 @@ appnexus.com,7596,RESELLER,f5ab79cb980f11d1
 appnexus.com,8233,RESELLER,f5ab79cb980f11d1
 appnexus.com,884,DIRECT#,f5ab79cb980f11d1
 appnexus.com,8904,RESELLER,f5ab79cb980f11d1
-appnexus.com,9242,RESELLER,f5ab79cb980f11d2
+appnexus.com,9242,RESELLER,f5ab79cb980f11d1
 appnexus.com,9393,RESELLER,f5ab79cb980f11d1
 appnexus.com,956,RESELLER,f5ab79cb980f11d1
 appnexus.com,9624,RESELLER,f5ab79cb980f11d1
@@ -110,6 +110,8 @@ districtm.io,101856,RESELLER,3fd707be9c4527c3
 emxdgt.com,1247,DIRECT,1e1d41537f7cad7f
 emxdgt.com,1251,RESELLER,1e1d41537f7cad7f
 emxdgt.com,1289,RESELLER,1e1d41537f7cad7f
+freewheel.tv,1168417,RESELLER
+freewheel.tv,1168481,RESELLER
 freewheel.tv,146777,RESELLER
 freewheel.tv,170809,RESELLER
 freewheel.tv,175881,RESELLER
