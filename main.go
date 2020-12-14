@@ -138,11 +138,6 @@ func main() {
 				r.AuthorityID = id
 			}
 
-			// replace valid AuthorityID/TagID with invalid one for a specific dailymotion line until dailymotion fixed the template
-			if r.Advertiser == "appnexus.com" && r.AccountID == "9242" && r.Relationship == "RESELLER" {
-				r.AuthorityID = "f5ab79cb980f11d2"
-			}
-
 			rows[r.UniqueID()] = r
 		}
 
