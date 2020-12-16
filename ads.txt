@@ -1,4 +1,4 @@
-# ads.txt:2020-12-14T10:14:04Z
+# ads.txt:2020-12-16T15:38:52Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -63,6 +63,7 @@ appnexus.com,2234,RESELLER,f5ab79cb980f11d1
 appnexus.com,2668,RESELLER,f5ab79cb980f11d1
 appnexus.com,3141,RESELLER,f5ab79cb980f11d1
 appnexus.com,3364,RESELLER,f5ab79cb980f11d1
+appnexus.com,3368,RESELLER,f5ab79cb980f11d1
 appnexus.com,3528,RESELLER,f5ab79cb980f11d1
 appnexus.com,3538,RESELLER,f5ab79cb980f11d1
 appnexus.com,3539,RESELLER,f5ab79cb980f11d1
@@ -363,6 +364,7 @@ smartstream.tv,3149,RESELLER
 smartstream.tv,3151,RESELLER
 smartstream.tv,3153,RESELLER
 smartstream.tv,3155,RESELLER
+smartstream.tv,371,RESELLER
 smartstream.tv,4881,RESELLER
 smartstream.tv,4883,RESELLER
 smartstream.tv,4911,RESELLER
