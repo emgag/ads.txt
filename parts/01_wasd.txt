@@ -30,21 +30,6 @@ rubiconproject.com,16114,RESELLER,0bfd66d529a55807
 smartadserver.com,420,DIRECT
 smartadserver.com,420,RESELLER
 smartclip.net,428,DIRECT
-smartstream.tv,2847,RESELLER
-smartstream.tv,3003,RESELLER
-smartstream.tv,3149,RESELLER
-smartstream.tv,3151,RESELLER
-smartstream.tv,3153,RESELLER
-smartstream.tv,3155,RESELLER
-smartstream.tv,4881,RESELLER
-smartstream.tv,4883,RESELLER
-smartstream.tv,4911,RESELLER
-smartstream.tv,4913,RESELLER
-smartstream.tv,4915,RESELLER
-smartstream.tv,4919,RESELLER
-smartstream.tv,4921,RESELLER
-smartstream.tv,4925,RESELLER
-smartstream.tv,6655,RESELLER
 sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
 spotx.tv,108933,RESELLER,7842df1d2fe2db34
 spotx.tv,113481,RESELLER,7842df1d2fe2db34
@@ -57,4 +42,3 @@ thetradedesk.com,2747,RESELLER
 thetradedesk.com,7769,RESELLER
 yieldlab.net,781119,RESELLER
 yieldlab.net,961276,RESELLER
-yieldlab.net,2172218,RESELLER
