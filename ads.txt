@@ -1,9 +1,9 @@
-# ads.txt:2020-12-16T15:38:52Z
+# ads.txt:2021-01-07T11:23:17Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
 # dailymotion ads.txt version:
-#dailymotion-v1.15-2020-12-10
+#dailymotion-v1.16-2020-12-17
 # ---
 4aolcloud.net,4819,RESELLER
 9mediaonline.com,1a34c,RESELLER
@@ -111,8 +111,11 @@ districtm.io,101856,RESELLER,3fd707be9c4527c3
 emxdgt.com,1247,DIRECT,1e1d41537f7cad7f
 emxdgt.com,1251,RESELLER,1e1d41537f7cad7f
 emxdgt.com,1289,RESELLER,1e1d41537f7cad7f
+freewheel.tv,1087169,RESELLER
 freewheel.tv,1168417,RESELLER
 freewheel.tv,1168481,RESELLER
+freewheel.tv,1171057,RESELLER
+freewheel.tv,1171553,RESELLER
 freewheel.tv,146777,RESELLER
 freewheel.tv,170809,RESELLER
 freewheel.tv,175881,RESELLER
@@ -172,7 +175,7 @@ freewheel.tv,856641,RESELLER
 freewheel.tv,856657,RESELLER
 freewheel.tv,856673,RESELLER
 freewheel.tv,862033,RESELLER
-freewheel.tv,899777,DIRECT
+freewheel.tv,899777,RESELLER
 freewheel.tv,901025,RESELLER
 freewheel.tv,9904,RESELLER
 fyber.com,1a12a7e3f84fe560ccf95a3a73043abb,RESELLER
