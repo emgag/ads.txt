@@ -2,8 +2,8 @@
 # https://www.dailymotion.com/partner/xtpyzh/embed/websites
 nsightvideo.com,49920605,DIRECT,fd25240165056a01 # filmtv
 appnexus.com,1537142,RESELLER
-#dailymotion-v1.15-2020-12-10
-freewheel.tv,899777,DIRECT
+#dailymotion-v1.16-2020-12-17
+freewheel.tv,899777,RESELLER
 freewheel.tv,901025,RESELLER
 springserve.com,843,RESELLER,a24eb641fc82e93d
 contextweb.com,561910,RESELLER,89ff185a4c4e857c
@@ -301,3 +301,7 @@ rubiconproject.com,22782,RESELLER,0bfd66d529a55807
 #v1.15
 freewheel.tv,1168417,RESELLER
 freewheel.tv,1168481,RESELLER
+#v1.16
+freewheel.tv,1087169,RESELLER
+freewheel.tv,1171057,RESELLER
+freewheel.tv,1171553,RESELLER
