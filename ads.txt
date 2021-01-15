@@ -1,4 +1,4 @@
-# ads.txt:2021-01-07T11:23:17Z
+# ads.txt:2021-01-15T10:17:43Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -361,6 +361,7 @@ smartclip.net,428,DIRECT
 smartclip.net,6780,RESELLER
 smartclip.net,855,RESELLER
 smartclip.net,9098,RESELLER
+smartstream.tv,134,RESELLER
 smartstream.tv,2847,RESELLER
 smartstream.tv,3003,RESELLER
 smartstream.tv,3149,RESELLER
@@ -376,7 +377,9 @@ smartstream.tv,4915,RESELLER
 smartstream.tv,4919,RESELLER
 smartstream.tv,4921,RESELLER
 smartstream.tv,4925,RESELLER
+smartstream.tv,602,RESELLER
 smartstream.tv,6655,RESELLER
+smartstream.tv,812,RESELLER
 sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
 sovrn.com,264726,RESELLER,fafdf38b16bf6b2b
 spotx.tv,108933,RESELLER,7842df1d2fe2db34
