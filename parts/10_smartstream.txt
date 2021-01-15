@@ -1,6 +1,9 @@
 # smartstream
 appnexus.com,3368,RESELLER
+smartstream.tv,134,RESELLER
 smartstream.tv,371,RESELLER
+smartstream.tv,602,RESELLER
+smartstream.tv,812,RESELLER
 smartstream.tv,2847,RESELLER
 smartstream.tv,3003,RESELLER
 smartstream.tv,3149,RESELLER
