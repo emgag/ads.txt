@@ -1,4 +1,4 @@
-# ads.txt:2021-02-25T10:22:01Z
+# ads.txt:2021-03-12T13:17:58Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -51,12 +51,14 @@ advertising.com,8603,RESELLER,e1a5b5b6e3255540
 advertising.com,8791,RESELLER,e1a5b5b6e3255540
 adyoulike.com,63b65589edd9247f495d686f931cb9c5,RESELLER,4ad745ead2958bf7
 adyoulike.com,b4bf4fdd9b0b915f746f6747ff432bde,RESELLER,4ad745ead2958bf7
+amxrtb.com,105199504,DIRECT
 aol.com,53392,RESELLER
 aol.com,7801,RESELLER
 aolcloud.net,4812,RESELLER
 apester.com,5f031d11cad27627fa5a9639,DIRECT
 appnexus.com,10062,DIRECT,f5ab79cb980f11d1
 appnexus.com,10617,RESELLER,f5ab79cb980f11d1
+appnexus.com,12290,RESELLER,f5ab79cb980f11d1
 appnexus.com,1314,RESELLER,f5ab79cb980f11d1
 appnexus.com,1356,RESELLER,f5ab79cb980f11d1
 appnexus.com,1537142,RESELLER,f5ab79cb980f11d1
@@ -257,6 +259,7 @@ indexexchange.com,189066,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,189455,DIRECT,50b1c356f2c5c8fc
 indexexchange.com,189855,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,191385,RESELLER,50b1c356f2c5c8fc
+indexexchange.com,191503,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,192106,DIRECT,50b1c356f2c5c8fc
 indexexchange.com,192410,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,193375,RESELLER,50b1c356f2c5c8fc
@@ -274,6 +277,7 @@ loopme.com,s-2411,RESELLER,6c8d5f95897a5a3b
 nsightvideo.com,49920605,DIRECT,fd25240165056a01
 onetag.com,3895f66b2a,RESELLER
 onetag.com,59d216e971852f2,RESELLER
+onetag.com,67c71bd96716ca3,DIRECT
 openx.com,537117297,RESELLER,6a698e2ec38604c6
 openx.com,537124691,RESELLER,6a698e2ec38604c6
 openx.com,537128103,RESELLER,6a698e2ec38604c6
@@ -284,6 +288,7 @@ openx.com,537153564,RESELLER,6a698e2ec38604c6
 openx.com,537154075,DIRECT,6a698e2ec38604c6
 openx.com,539074103,RESELLER,6a698e2ec38604c6
 openx.com,539154393,RESELLER,6a698e2ec38604c6
+openx.com,539246483,RESELLER,6a698e2ec38604c6
 openx.com,539253360,RESELLER,6a698e2ec38604c6
 openx.com,539366975,RESELLER,6a698e2ec38604c6
 openx.com,539625136,RESELLER,6a698e2ec38604c6
@@ -320,6 +325,7 @@ pubmatic.com,156946,RESELLER,5d62403b186f2ace
 pubmatic.com,157310,RESELLER,5d62403b186f2ace
 pubmatic.com,157510,RESELLER,5d62403b186f2ace
 pubmatic.com,158154,RESELLER,5d62403b186f2ace
+pubmatic.com,158355,RESELLER,5d62403b186f2ace
 pubmatic.com,158452,RESELLER,5d62403b186f2ace
 pubmatic.com,158541,RESELLER,5d62403b186f2ace
 pubmatic.com,159277,RESELLER,5d62403b186f2ace
