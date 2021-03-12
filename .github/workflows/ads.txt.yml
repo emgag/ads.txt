@@ -3,31 +3,23 @@ on:
   push:	
     branches:	
       - master
+  workflow_dispatch:
 
 jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
     steps:
-
-    - name: Set up Go 1.13
-      uses: actions/setup-go@v1
+    - uses: actions/setup-go@v2
       with:
-        go-version: 1.13
-      id: go
-
-    - name: Check out code into the Go module directory
-      uses: actions/checkout@v1
-
+        go-version: 1.16
+    - uses: actions/checkout@v2
     - name: Build ads.txt
       run: |
         mkdir out
         go run main.go > out/ads.txt
-        
-    - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@3.1.5
+    - name: Deploy to github pages
+      uses: JamesIves/github-pages-deploy-action@4.1.0
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages 
-        FOLDER: out 
-     
+        branch: gh-pages
+        folder: out
