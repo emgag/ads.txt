@@ -20,3 +20,4 @@ smartstream.tv,4921,RESELLER
 smartstream.tv,4925,RESELLER
 smartstream.tv,6655,RESELLER
 yieldlab.net,2172218,RESELLER
+xandr.com,12279,RESELLER
