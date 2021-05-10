@@ -1,4 +1,4 @@
-# ads.txt:2021-04-01T12:43:11Z
+# ads.txt:2021-05-10T08:35:15Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -452,6 +452,7 @@ video.unrulymedia.com,212257119,DIRECT
 video.unrulymedia.com,871930104,DIRECT
 viralize.com,4791,DIRECT
 xad.com,958,RESELLER,81cbf0a75a5e0e9a
+xandr.com,12279,RESELLER
 yahoo.com,57379,DIRECT
 yieldlab.net,11114007,DIRECT
 yieldlab.net,163835,DIRECT
