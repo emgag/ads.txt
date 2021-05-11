@@ -1,9 +1,9 @@
-# ads.txt:2021-05-10T08:35:15Z
+# ads.txt:2021-05-11T07:36:22Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
 # dailymotion ads.txt version:
-#dailymotion-v1.19-2021-03-29
+#dailymotion-v1.20-2021-05-05
 # ---
 4aolcloud.net,4819,RESELLER
 9mediaonline.com,1a34c,RESELLER
@@ -228,6 +228,7 @@ improvedigital.com,1394,RESELLER
 improvedigital.com,1532,RESELLER
 improvedigital.com,1699,RESELLER
 improvedigital.com,185,RESELLER
+improvedigital.com,1915,RESELLER
 improvedigital.com,335,RESELLER
 improvedigital.com,410,RESELLER
 improvedigital.com,545,RESELLER
@@ -367,6 +368,7 @@ smartclip.net,10220,RESELLER
 smartclip.net,10221,RESELLER
 smartclip.net,10451,RESELLER
 smartclip.net,12160,RESELLER
+smartclip.net,12824,RESELLER
 smartclip.net,2898,RESELLER
 smartclip.net,428,DIRECT
 smartclip.net,6780,RESELLER
@@ -409,9 +411,9 @@ spotx.tv,285547,RESELLER,7842df1d2fe2db34
 spotx.tv,71451,RESELLER,7842df1d2fe2db34
 spotx.tv,82069,RESELLER,7842df1d2fe2db34
 spotx.tv,95719,RESELLER,7842df1d2fe2db34
-spotxchange,151986,RESELLER,7842df1d2fe2db34
 spotxchange.com,108933,RESELLER,7842df1d2fe2db34
 spotxchange.com,113481,RESELLER,7842df1d2fe2db34
+spotxchange.com,151986,RESELLER,7842df1d2fe2db34
 spotxchange.com,153598,RESELLER,7842df1d2fe2db34
 spotxchange.com,165877,RESELLER,7842df1d2fe2db34
 spotxchange.com,173175,RESELLER,7842df1d2fe2db34
