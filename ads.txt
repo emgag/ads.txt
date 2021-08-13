@@ -1,4 +1,4 @@
-# ads.txt:2021-08-05T07:37:21Z
+# ads.txt:2021-08-13T08:17:28Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -119,6 +119,7 @@ freewheel.tv,1168417,RESELLER
 freewheel.tv,1168481,RESELLER
 freewheel.tv,1171057,RESELLER
 freewheel.tv,1171553,RESELLER
+freewheel.tv,1220655,RESELLER
 freewheel.tv,146777,RESELLER
 freewheel.tv,170809,RESELLER
 freewheel.tv,175881,RESELLER
