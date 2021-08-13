@@ -19,3 +19,7 @@ vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2 # Premium Video Demand
 indexexchange.com,193091,RESELLER,50b1c356f2c5c8fc # Premium video demand from Outbrain
 pubmatic.com,160065,RESELLER,5d62403b186f2ace # Premium video demand from Outbrain
 improvedigital.com,1863,RESELLER # Premium video demand from Outbrain
+advertising.com,26154,RESELLER # Premium video demand
+spotxchange.com,225721,RESELLER # Premium video demand
+advertising.com,28038,RESELLER # Premium Video Demand
+freewheel.tv,1220655,RESELLER # Premium video demand from Outbrain
