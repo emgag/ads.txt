@@ -29,6 +29,11 @@ rubiconproject.com,13132,RESELLER,0bfd66d529a55807
 rubiconproject.com,16114,RESELLER,0bfd66d529a55807
 smartadserver.com,420,DIRECT
 smartadserver.com,420,RESELLER
+smartadserver.com,4012,DIRECT
+smartadserver.com,4016,DIRECT
+smartadserver.com,4071,DIRECT
+smartadserver.com,4073,DIRECT
+smartadserver.com,4074,DIRECT
 smartclip.net,428,DIRECT
 sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
 spotx.tv,108933,RESELLER,7842df1d2fe2db34
