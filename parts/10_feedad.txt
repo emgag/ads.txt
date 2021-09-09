@@ -22,6 +22,8 @@ emxdgt.com,1247,DIRECT,1e1d41537f7cad7f
 emxdgt.com,1745,DIRECT,1e1d41537f7cad7f
 freewheel.tv,969937,DIRECT
 freewheel.tv,972177,RESELLER
+freewheel.tv,1237935,DIRECT
+freewheel.tv,1237951,RESELLER
 google.com,pub-1313834454494130,RESELLER,f08c47fec0942fa0
 google.com,pub-2024690810381654,RESELLER,f08c47fec0942fa0
 google.com,pub-5192618204358860,RESELLER,f08c47fec0942fa0
