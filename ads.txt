@@ -1,9 +1,9 @@
-# ads.txt:2021-11-05T09:37:30Z
+# ads.txt:2021-12-01T17:39:09Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
 # dailymotion ads.txt version:
-#dailymotion-v1.26-2021-10-29
+#dailymotion-v1.27-2021-11-18
 # ---
 ad-generation.jp,12474,RESELLER,7f4ea9029ac04e53
 ad-stir.com,8943,RESELLER
@@ -144,6 +144,8 @@ fyber.com,ad9de41d28d494354b23133f26f83122,RESELLER
 google.com,pub-1172870656034468,RESELLER,f08c47fec0942fa0
 google.com,pub-1313834454494130,RESELLER,f08c47fec0942fa0
 google.com,pub-1386280613967939,RESELLER,f08c47fec0942fa0
+google.com,pub-1427805825892953,RESELLER,f08c47fec0942fa0
+google.com,pub-1644806578912499,RESELLER,f08c47fec0942fa0
 google.com,pub-1956856209985681,RESELLER,f08c47fec0942fa0
 google.com,pub-2024690810381654,RESELLER,f08c47fec0942fa0
 google.com,pub-2316275586951220,RESELLER,f08c47fec0942fa0
@@ -274,7 +276,9 @@ pubmatic.com,159970,RESELLER,5d62403b186f2ace
 pubmatic.com,160065,RESELLER,5d62403b186f2ace
 pubmatic.com,160258,RESELLER,5d62403b186f2ace
 pubmatic.com,160321,RESELLER,5d62403b186f2ace
+pubmatic.com,160576,RESELLER,5d62403b186f2ace
 pubmatic.com,160883,RESELLER,5d62403b186f2ace
+pubmatic.com,160986,RESELLER,5d62403b186f2ace
 pubnative.net,1006576,RESELLER,d641df8625486a7b
 pubnative.net,1007382,RESELLER,d641df8625486a7b
 rhythmone.com,1107452720,RESELLER,a670c89d4a324e47
@@ -283,6 +287,7 @@ rhythmone.com,1801597981,DIRECT,a670c89d4a324e47
 rhythmone.com,1878624802,RESELLER,a670c89d4a324e47
 rhythmone.com,212257119,DIRECT,a670c89d4a324e47
 rhythmone.com,2564526802,RESELLER,a670c89d4a324e47
+rhythmone.com,3005458960,RESELLER,a670c89d4a324e47
 rhythmone.com,4116102010,RESELLER,a670c89d4a324e47
 rhythmone.com,4173858586,RESELLER,a670c89d4a324e47
 rhythmone.com,871930104,DIRECT,a670c89d4a324e47
@@ -307,6 +312,7 @@ rubiconproject.com,19116,RESELLER,0bfd66d529a55807
 rubiconproject.com,19668,RESELLER,0bfd66d529a55807
 rubiconproject.com,20744,RESELLER,0bfd66d529a55807
 rubiconproject.com,21426,RESELLER,0bfd66d529a55807
+rubiconproject.com,21462,RESELLER,0bfd66d529a55807
 rubiconproject.com,22784,RESELLER,0bfd66d529a55807
 rubiconproject.com,22972,RESELLER,0bfd66d529a55807
 rubiconproject.com,23764,RESELLER,0bfd66d529a55807
@@ -435,6 +441,7 @@ video.unrulymedia.com,1166984029,RESELLER,a670c89d4a324e47
 video.unrulymedia.com,1801597981,DIRECT
 video.unrulymedia.com,1878624802,DIRECT
 video.unrulymedia.com,212257119,DIRECT
+video.unrulymedia.com,3005458960,RESELLER
 video.unrulymedia.com,4116102010,RESELLER
 video.unrulymedia.com,871930104,DIRECT
 viralize.com,4791,DIRECT
