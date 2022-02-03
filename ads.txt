@@ -1,4 +1,4 @@
-# ads.txt:2022-01-21T11:31:04Z
+# ads.txt:2022-02-03T10:10:32Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -242,6 +242,7 @@ rhythmone.com,2564526802,RESELLER,a670c89d4a324e47
 rhythmone.com,3005458960,RESELLER,a670c89d4a324e47
 rhythmone.com,4116102010,RESELLER,a670c89d4a324e47
 richaudience.com,UI8FfexC4d,RESELLER
+risecodes.com,6022acddc8b2f90001767980,RESELLER
 rubiconproject.com,12540,RESELLER,0bfd66d529a55807
 rubiconproject.com,13132,RESELLER,0bfd66d529a55807
 rubiconproject.com,13510,RESELLER,0bfd66d529a55807
@@ -385,6 +386,8 @@ xad.com,958,RESELLER,81cbf0a75a5e0e9a
 xandr.com,12279,RESELLER
 yahoo.com,55029,RESELLER,e1a5b5b6e3255540
 yahoo.com,57379,DIRECT,e1a5b5b6e3255540
+yahoo.com,59040,RESELLER,e1a5b5b6e3255540
+yahoo.com,59052,RESELLER,e1a5b5b6e3255540
 yahoo.com,59213,DIRECT,e1a5b5b6e3255540
 yieldlab.net,11114007,DIRECT
 yieldlab.net,163835,DIRECT
