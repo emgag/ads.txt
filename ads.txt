@@ -1,4 +1,4 @@
-# ads.txt:2022-02-09T11:22:54Z
+# ads.txt:2022-02-15T09:28:12Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -86,6 +86,7 @@ districtm.io,100962,RESELLER,3fd707be9c4527c3
 districtm.io,101760,RESELLER,3fd707be9c4527c3
 emxdgt.com,1251,RESELLER,1e1d41537f7cad7f
 emxdgt.com,1289,RESELLER,1e1d41537f7cad7f
+emxdgt.com,2014,RESELLER,1e1d41537f7cad7f
 engagebdr.com,10181,RESELLER
 eskimi.com,eas-2020000005,RESELLER
 feedad.com,dca1bf6d-08ed-487f-8ee8-48abb062cb7b,DIRECT
@@ -220,6 +221,7 @@ openx.com,541216068,RESELLER,6a698e2ec38604c6
 openx.com,544003091,RESELLER,6a698e2ec38604c6
 openx.com,550981733,RESELLER,6a698e2ec38604c6
 outbrain.com,0049d8fb1313d666d1bab2017ea7a81496,DIRECT
+outbrain.com,00aa12ea711e6e5e160fad23d056835d3a,DIRECT
 pokkt.com,7606,RESELLER,c45702d9311e25fd
 pubmatic.com,100531,RESELLER,5d62403b186f2ace
 pubmatic.com,110304,RESELLER,5d62403b186f2ace
