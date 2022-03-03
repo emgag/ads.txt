@@ -1,4 +1,4 @@
-# ads.txt:2022-02-15T09:28:12Z
+# ads.txt:2022-03-03T15:32:33Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -8,7 +8,6 @@ contact=https://wasdmedia.de/
 ad-generation.jp,12474,RESELLER,7f4ea9029ac04e53
 ad-stir.com,8943,RESELLER
 adagio.io,1122,RESELLER
-adform.com,1819,RESELLER,9f5210a2f0999e32
 adform.com,183,RESELLER,9f5210a2f0999e32
 adform.com,2438,RESELLER,9f5210a2f0999e32
 adform.com,2579,RESELLER,9f5210a2f0999e32
@@ -79,6 +78,7 @@ bidscube.com,100,RESELLER
 contextweb.com,560288,RESELLER,89ff185a4c4e857c
 contextweb.com,560382,RESELLER,89ff185a4c4e857c
 contextweb.com,562499,RESELLER,89ff185a4c4e857c
+conversantmedia.com,100261,RESELLER 03113cd04947736d
 criteo.com,10206,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-059210,RESELLER,9fac4a4a87c2a44f
 districtm.io,100025,RESELLER,3fd707be9c4527c3
@@ -186,11 +186,11 @@ lijit.com,342939,DIRECT,fafdf38b16bf6b2b
 lijit.com,342939-eb,DIRECT,fafdf38b16bf6b2b
 lijit.com,379304,DIRECT,fafdf38b16bf6b2b
 lijit.com,379304-eb,DIRECT,fafdf38b16bf6b2b
-lijit.com,383910,DIRECT,fafdf38b16bf6b2b
+lijit.com,383910,RESELLER,fafdf38b16bf6b2b
+lijit.com,383910-eb,RESELLER fafdf38b16bf6b2b
 lkqd.com,410,RESELLER,59c49fa9598a0117
 lkqd.net,410,RESELLER,59c49fa9598a0117
 lkqd.net,450,RESELLER,59c49fa9598a0117
-loopme.com,10073,RESELLER,6c8d5f95897a5a3b
 loopme.com,10876,RESELLER,6c8d5f95897a5a3b
 loopme.com,5679,RESELLER,6c8d5f95897a5a3b
 loopme.com,s-2411,RESELLER,6c8d5f95897a5a3b
@@ -249,6 +249,8 @@ pubmatic.com,161153,DIRECT,5d62403b186f2ace
 pubnative.net,1006576,RESELLER,d641df8625486a7b
 rhythmone.com,1107452720,RESELLER,a670c89d4a324e47
 rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+rhythmone.com,1801597981,RESELLER,a670c89d4a324e47
+rhythmone.com,1878624802,RESELLER,a670c89d4a324e47
 rhythmone.com,212257119,DIRECT,a670c89d4a324e47
 rhythmone.com,2564526802,RESELLER,a670c89d4a324e47
 rhythmone.com,3005458960,RESELLER,a670c89d4a324e47
@@ -340,7 +342,7 @@ smartyads.com,100034,RESELLER,fd2bde0ff2e62c5d
 sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
 sovrn.com,342939,DIRECT,fafdf38b16bf6b2b
 sovrn.com,379304,DIRECT,fafdf38b16bf6b2b
-sovrn.com,383910,DIRECT,fafdf38b16bf6b2b
+sovrn.com,383910,RESELLER fafdf38b16bf6b2b,fafdf38b16bf6b2b
 spotx.tv,108933,RESELLER,7842df1d2fe2db34
 spotx.tv,113481,RESELLER,7842df1d2fe2db34
 spotx.tv,151986,RESELLER,7842df1d2fe2db34
@@ -375,6 +377,7 @@ teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 teads.tv,18987,RESELLER,15a9c44f6d26cbe1
 teads.tv,21972,RESELLER,15a9c44f6d26cbe1
 telaria.com,noedw-k0ayc,RESELLER,1a4e959a1b50034a
+themediagrid.com,JBI8YR,RESELLER,35d5010d7789b49d
 themediagrid.com,Q8BSV3,DIRECT,35d5010d7789b49d
 thetradedesk.com,2747,RESELLER
 thetradedesk.com,7769,RESELLER
@@ -386,6 +389,8 @@ tremorhub.com,19i64-nwjvk,RESELLER,1a4e959a1b50034a
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 tremorhub.com,z87wm,RESELLER,1a4e959a1b50034a
 triplelift.com,10448,RESELLER,6c33edb13117fd86
+triplelift.com,11457,RESELLER,6c33edb13117fd86
+triplelift.com,11457-EB,RESELLER,6c33edb13117fd86
 triplelift.com,9268,RESELLER,6c33edb13117fd86
 triplelift.com,9976,RESELLER,6c33edb13117fd86
 triplelift.com,9976-EB,RESELLER,6c33edb13117fd86
@@ -397,7 +402,7 @@ video.unrulymedia.com,1878624802,DIRECT
 video.unrulymedia.com,212257119,DIRECT
 video.unrulymedia.com,3005458960,RESELLER
 video.unrulymedia.com,4116102010,RESELLER
-viralize.com,4791,DIRECT
+viralize.com,4791,RESELLER
 xad.com,958,RESELLER,81cbf0a75a5e0e9a
 xandr.com,12279,RESELLER
 yahoo.com,55029,RESELLER,e1a5b5b6e3255540
