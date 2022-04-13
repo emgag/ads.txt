@@ -20,6 +20,8 @@ type Record struct {
 	AccountID    string
 	Relationship string
 	AuthorityID  string
+	Original     string
+	Keep         bool
 }
 
 func (r *Record) UniqueID() string {
@@ -27,6 +29,10 @@ func (r *Record) UniqueID() string {
 }
 
 func (r *Record) Row() string {
+	if r.Keep {
+		return r.Original
+	}
+
 	c := []string{
 		r.Advertiser,
 		r.AccountID,
@@ -53,6 +59,7 @@ func ParseRow(row string) (*Record, error) {
 		Advertiser:   strings.TrimSpace(strings.ToLower(cols[0])),
 		AccountID:    strings.TrimSpace(cols[1]),
 		Relationship: strings.TrimSpace(cols[2]),
+		Original:     row,
 	}
 
 	if len(cols) == 4 {
@@ -108,6 +115,8 @@ func main() {
 
 	for _, file := range files {
 		f, err := os.Open(filepath.Join(dir, file.Name()))
+		// dailymotion's validator expects identical lines *rolleyes*
+		keep := file.Name() == "10_dailymotion.txt"
 
 		if err != nil {
 			log.Fatal(err)
@@ -138,6 +147,7 @@ func main() {
 				r.AuthorityID = id
 			}
 
+			r.Keep = keep
 			rows[r.UniqueID()] = r
 		}
 
