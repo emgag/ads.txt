@@ -18,3 +18,4 @@ spotx.tv,113481,RESELLER,7842df1d2fe2db34
 spotxchange.com,113481,RESELLER,7842df1d2fe2db34
 stroeer.com,17447,RESELLER
 video.unrulymedia.com,212257119,DIRECT
+yahoo.com,59701,RESELLER,e1a5b5b6e3255540
