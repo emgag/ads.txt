@@ -10,7 +10,6 @@ Authorative source for ads.txt for all EMGAG/WMPAG portals
 ## Add new entries
 
 * Add entries to part file(s).
-* Sort and cleanup.
 * Push to master. New ads.txt will be generated and deployed automatically.
 
 
