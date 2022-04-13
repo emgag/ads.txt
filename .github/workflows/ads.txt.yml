@@ -10,16 +10,16 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/setup-go@v2
-      with:
-        go-version: 1.16
     - uses: actions/checkout@v2
+    - uses: actions/setup-go@v3
+      with:
+        go-version: 1.18
     - name: Build ads.txt
       run: |
         mkdir out
         go run main.go > out/ads.txt
     - name: Deploy to github pages
-      uses: JamesIves/github-pages-deploy-action@4.1.0
+      uses: JamesIves/github-pages-deploy-action@4.3.0
       with:
         branch: gh-pages
         folder: out
