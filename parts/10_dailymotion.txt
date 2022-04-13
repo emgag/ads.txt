@@ -257,3 +257,6 @@ rhythmone.com,3005458960,RESELLER,a670c89d4a324e47
 pubmatic.com,160576,RESELLER,5d62403b186f2ace
 google.com,pub-1427805825892953,RESELLER,f08c47fec0942fa0
 adyoulike.com,0989a3b4b345ea1f2848e5df5329ad53,RESELLER,4ad745ead2958bf7
+headerlift.com,11483,RESELLER
+triplelift.com,3054,DIRECT,6c33edb13117fd86
+appnexus.com,3360,RESELLER
