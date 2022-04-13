@@ -1,4 +1,4 @@
-# ads.txt:2022-04-13T09:06:59Z
+# ads.txt:2022-04-13T10:35:10Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -52,6 +52,7 @@ appnexus.com,1537142,RESELLER
 appnexus.com,1577,RESELLER,f5ab79cb980f11d1
 appnexus.com,1851,RESELLER,f5ab79cb980f11d1
 appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+appnexus.com,3360,RESELLER
 appnexus.com,3364,RESELLER,f5ab79cb980f11d1
 appnexus.com,3368,RESELLER,f5ab79cb980f11d1
 appnexus.com,3528,RESELLER,f5ab79cb980f11d1
@@ -158,6 +159,7 @@ google.com,pub-9149857261128578,DIRECT,f08c47fec0942fa0
 google.com,pub-9485981123373313,RESELLER,f08c47fec0942fa0
 groundtruth.com,107,RESELLER,81cbf0a75a5e0e9a
 gumgum.com,14141,RESELLER,ffdef49475d318a9
+headerlift.com,11483,RESELLER
 improvedigital.com,1041,RESELLER
 improvedigital.com,1259,RESELLER
 improvedigital.com,1299,RESELLER
@@ -391,6 +393,7 @@ tremorhub.com,z87wm,RESELLER,1a4e959a1b50034a
 triplelift.com,10448,RESELLER,6c33edb13117fd86
 triplelift.com,11457,RESELLER,6c33edb13117fd86
 triplelift.com,11457-EB,RESELLER,6c33edb13117fd86
+triplelift.com,3054,DIRECT,6c33edb13117fd86
 triplelift.com,9268,RESELLER,6c33edb13117fd86
 triplelift.com,9976,RESELLER,6c33edb13117fd86
 triplelift.com,9976-EB,RESELLER,6c33edb13117fd86
