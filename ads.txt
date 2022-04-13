@@ -1,14 +1,17 @@
-# ads.txt:2022-03-03T15:32:33Z
+# ads.txt:2022-04-13T08:59:50Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
 # dailymotion ads.txt version:
 #dailymotion-v1.29-2022-01-21
 # ---
+EMXDGT.com,1251,RESELLER,1e1d41537f7cad7f
+EMXDGT.com,1289,RESELLER,1e1d41537f7cad7f
+Eskimi.com,eas-2020000005,RESELLER
 ad-generation.jp,12474,RESELLER,7f4ea9029ac04e53
 ad-stir.com,8943,RESELLER
 adagio.io,1122,RESELLER
-adform.com,183,RESELLER,9f5210a2f0999e32
+adform.com,183,RESELLER
 adform.com,2438,RESELLER,9f5210a2f0999e32
 adform.com,2579,RESELLER,9f5210a2f0999e32
 adform.com,2831,RESELLER,9f5210a2f0999e32
@@ -45,7 +48,7 @@ appads.in,107606,RESELLER
 appnexus.com,10617,RESELLER,f5ab79cb980f11d1
 appnexus.com,1314,RESELLER,f5ab79cb980f11d1
 appnexus.com,1356,RESELLER,f5ab79cb980f11d1
-appnexus.com,1537142,RESELLER,f5ab79cb980f11d1
+appnexus.com,1537142,RESELLER
 appnexus.com,1577,RESELLER,f5ab79cb980f11d1
 appnexus.com,1851,RESELLER,f5ab79cb980f11d1
 appnexus.com,1908,RESELLER,f5ab79cb980f11d1
@@ -84,11 +87,8 @@ criteo.com,B-059210,RESELLER,9fac4a4a87c2a44f
 districtm.io,100025,RESELLER,3fd707be9c4527c3
 districtm.io,100962,RESELLER,3fd707be9c4527c3
 districtm.io,101760,RESELLER,3fd707be9c4527c3
-emxdgt.com,1251,RESELLER,1e1d41537f7cad7f
-emxdgt.com,1289,RESELLER,1e1d41537f7cad7f
 emxdgt.com,2014,RESELLER,1e1d41537f7cad7f
 engagebdr.com,10181,RESELLER
-eskimi.com,eas-2020000005,RESELLER
 feedad.com,dca1bf6d-08ed-487f-8ee8-48abb062cb7b,DIRECT
 freewheel.tv,1087169,RESELLER
 freewheel.tv,1091105,RESELLER
@@ -182,8 +182,8 @@ indexexchange.com,193091,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,194228,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,197564,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,197723,RESELLER,50b1c356f2c5c8fc
-lijit.com,342939,DIRECT,fafdf38b16bf6b2b
-lijit.com,342939-eb,DIRECT,fafdf38b16bf6b2b
+lijit.com, 342939, DIRECT, fafdf38b16bf6b2b
+lijit.com, 342939-eb, DIRECT, fafdf38b16bf6b2b
 lijit.com,379304,DIRECT,fafdf38b16bf6b2b
 lijit.com,379304-eb,DIRECT,fafdf38b16bf6b2b
 lijit.com,383910,RESELLER,fafdf38b16bf6b2b
@@ -195,7 +195,7 @@ loopme.com,10876,RESELLER,6c8d5f95897a5a3b
 loopme.com,5679,RESELLER,6c8d5f95897a5a3b
 loopme.com,s-2411,RESELLER,6c8d5f95897a5a3b
 lunamedia.io,e0d08727b81d0fd4acf4a1406c3c537d,RESELLER,524ecb396915caaf
-nsightvideo.com,49920605,DIRECT,fd25240165056a01
+nsightvideo.com,49920605,DIRECT,fd25240165056a01 # filmtv
 onetag.com,59d216e971852f2,RESELLER
 onetag.com,67c71bd96716ca3,DIRECT
 onetag.com,6b859b96c564fbe,RESELLER
@@ -339,8 +339,8 @@ smartstream.tv,602,RESELLER
 smartstream.tv,6655,RESELLER
 smartstream.tv,812,RESELLER
 smartyads.com,100034,RESELLER,fd2bde0ff2e62c5d
+sovrn.com, 342939, DIRECT, fafdf38b16bf6b2b
 sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
-sovrn.com,342939,DIRECT,fafdf38b16bf6b2b
 sovrn.com,379304,DIRECT,fafdf38b16bf6b2b
 sovrn.com,383910,RESELLER fafdf38b16bf6b2b,fafdf38b16bf6b2b
 spotx.tv,108933,RESELLER,7842df1d2fe2db34
@@ -413,6 +413,7 @@ yahoo.com,59052,RESELLER,e1a5b5b6e3255540
 yahoo.com,59213,DIRECT,e1a5b5b6e3255540
 yahoo.com,59495,RESELLER,e1a5b5b6e3255540
 yahoo.com,59496,RESELLER,e1a5b5b6e3255540
+yahoo.com,59701,RESELLER,e1a5b5b6e3255540
 yieldlab.net,11114007,DIRECT
 yieldlab.net,163835,DIRECT
 yieldlab.net,163835,RESELLER
