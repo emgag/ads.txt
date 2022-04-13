@@ -19,7 +19,7 @@ jobs:
         mkdir out
         go run main.go > out/ads.txt
     - name: Deploy to github pages
-      uses: JamesIves/github-pages-deploy-action@4.3.0
+      uses: JamesIves/github-pages-deploy-action@v4.3.0
       with:
         branch: gh-pages
         folder: out
