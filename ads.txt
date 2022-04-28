@@ -1,9 +1,9 @@
-# ads.txt:2022-04-13T10:35:10Z
+# ads.txt:2022-04-28T08:00:53Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
 # dailymotion ads.txt version:
-#dailymotion-v1.29-2022-01-21
+#dailymotion-v1.32-2022-04-27
 # ---
 EMXDGT.com,1251,RESELLER,1e1d41537f7cad7f
 EMXDGT.com,1289,RESELLER,1e1d41537f7cad7f
@@ -184,8 +184,8 @@ indexexchange.com,193091,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,194228,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,197564,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,197723,RESELLER,50b1c356f2c5c8fc
-lijit.com, 342939, DIRECT, fafdf38b16bf6b2b
-lijit.com, 342939-eb, DIRECT, fafdf38b16bf6b2b
+lijit.com,342939,RESELLER,fafdf38b16bf6b2b
+lijit.com,342939-eb,RESELLER,fafdf38b16bf6b2b
 lijit.com,379304,DIRECT,fafdf38b16bf6b2b
 lijit.com,379304-eb,DIRECT,fafdf38b16bf6b2b
 lijit.com,383910,RESELLER,fafdf38b16bf6b2b
@@ -341,8 +341,8 @@ smartstream.tv,602,RESELLER
 smartstream.tv,6655,RESELLER
 smartstream.tv,812,RESELLER
 smartyads.com,100034,RESELLER,fd2bde0ff2e62c5d
-sovrn.com, 342939, DIRECT, fafdf38b16bf6b2b
 sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
+sovrn.com,342939,RESELLER,fafdf38b16bf6b2b
 sovrn.com,379304,DIRECT,fafdf38b16bf6b2b
 sovrn.com,383910,RESELLER fafdf38b16bf6b2b,fafdf38b16bf6b2b
 spotx.tv,108933,RESELLER,7842df1d2fe2db34
@@ -393,7 +393,7 @@ tremorhub.com,z87wm,RESELLER,1a4e959a1b50034a
 triplelift.com,10448,RESELLER,6c33edb13117fd86
 triplelift.com,11457,RESELLER,6c33edb13117fd86
 triplelift.com,11457-EB,RESELLER,6c33edb13117fd86
-triplelift.com,3054,DIRECT,6c33edb13117fd86
+triplelift.com,3054,RESELLER,6c33edb13117fd86
 triplelift.com,9268,RESELLER,6c33edb13117fd86
 triplelift.com,9976,RESELLER,6c33edb13117fd86
 triplelift.com,9976-EB,RESELLER,6c33edb13117fd86
