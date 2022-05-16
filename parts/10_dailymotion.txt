@@ -1,6 +1,6 @@
 nsightvideo.com,49920605,DIRECT,fd25240165056a01 # filmtv
 appnexus.com,1537142,RESELLER
-#dailymotion-v1.32-2022-04-27
+#dailymotion-v1.33-2022-05-05
 freewheel.tv,899777,RESELLER
 freewheel.tv,901025,RESELLER
 freewheel.tv,1168417,RESELLER
@@ -258,3 +258,4 @@ adyoulike.com,0989a3b4b345ea1f2848e5df5329ad53,RESELLER,4ad745ead2958bf7
 headerlift.com,11483,RESELLER
 triplelift.com,3054,RESELLER,6c33edb13117fd86
 appnexus.com,3360,RESELLER
+smartadserver.com,3330,RESELLER
