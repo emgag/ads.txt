@@ -1,9 +1,9 @@
-# ads.txt:2022-05-12T07:32:33Z
+# ads.txt:2022-05-16T07:52:31Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
 # dailymotion ads.txt version:
-#dailymotion-v1.32-2022-04-27
+#dailymotion-v1.33-2022-05-05
 # ---
 33across.com,0010b00001u5Dp4AAE,RESELLER
 EMXDGT.com,1251,RESELLER,1e1d41537f7cad7f
@@ -314,6 +314,7 @@ smartadserver.com,2373,RESELLER
 smartadserver.com,2441,RESELLER
 smartadserver.com,2640,RESELLER
 smartadserver.com,3160,DIRECT
+smartadserver.com,3330,RESELLER
 smartadserver.com,3433,RESELLER
 smartadserver.com,3450,DIRECT
 smartadserver.com,3491,RESELLER
