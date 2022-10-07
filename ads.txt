@@ -1,4 +1,4 @@
-# ads.txt:2022-09-08T08:06:20Z
+# ads.txt:2022-10-07T09:27:19Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -131,6 +131,7 @@ freewheel.tv,899777,RESELLER
 freewheel.tv,901025,RESELLER
 fyber.com,1a12a7e3f84fe560ccf95a3a73043abb,RESELLER
 fyber.com,ad9de41d28d494354b23133f26f83122,RESELLER
+gb-next.ch,gbx-10016,DIRECT
 google.com,pub-1172870656034468,RESELLER,f08c47fec0942fa0
 google.com,pub-1313834454494130,RESELLER,f08c47fec0942fa0
 google.com,pub-1386280613967939,RESELLER,f08c47fec0942fa0
