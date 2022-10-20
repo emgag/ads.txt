@@ -1,4 +1,4 @@
-# ads.txt:2022-10-07T09:27:19Z
+# ads.txt:2022-10-20T07:58:51Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -32,7 +32,6 @@ advertising.com,26947,RESELLER,e1a5b5b6e3255540
 advertising.com,28038,RESELLER,e1a5b5b6e3255540
 advertising.com,28335,RESELLER,e1a5b5b6e3255540
 advertising.com,28458,RESELLER,e1a5b5b6e3255540
-advertising.com,28813,RESELLER,e1a5b5b6e3255540
 advertising.com,29091,RESELLER,e1a5b5b6e3255540
 advertising.com,3531,RESELLER,e1a5b5b6e3255540
 advertising.com,7574,RESELLER,e1a5b5b6e3255540
@@ -213,6 +212,7 @@ loopme.com,5679,RESELLER,6c8d5f95897a5a3b
 loopme.com,s-2411,RESELLER,6c8d5f95897a5a3b
 lunamedia.io,e0d08727b81d0fd4acf4a1406c3c537d,RESELLER,524ecb396915caaf
 media.net,8CUIH830U,RESELLER
+mobupps.com,c74d97b01eae257e44aa9d5bade97baf30620,DIRECT
 nsightvideo.com,49920605,DIRECT,fd25240165056a01 # filmtv
 onetag.com,59d216e971852f2,RESELLER
 onetag.com,67c71bd96716ca3,RESELLER
@@ -313,17 +313,18 @@ rubiconproject.com,22784,RESELLER,0bfd66d529a55807
 rubiconproject.com,22924,RESELLER,0bfd66d529a55807
 rubiconproject.com,22972,RESELLER,0bfd66d529a55807
 rubiconproject.com,23764,RESELLER,0bfd66d529a55807
+rubiconproject.com,24658,RESELLER,0bfd66d529a55807
+rubiconproject.com,24660,RESELLER,0bfd66d529a55807
 rubiconproject.com,8769,RESELLER,0bfd66d529a55807
 rubiconproject.com,9753,RESELLER,0bfd66d529a55807
 rubiconproject.com,9755,RESELLER,0bfd66d529a55807
 sharethrough.com,0177541a,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,40y1YYSV,DIRECT,d53b998a7bd4ecd2
 sharethrough.com,e6afc1ec,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,rpEqPkks,DIRECT,d53b998a7bd4ecd2
 smaato.com,1100044045,RESELLER,07bcf65f187117b4
 smaato.com,1100044650,RESELLER,07bcf65f187117b4
 smaato.com,1100047713,RESELLER,07bcf65f187117b4
-smartadserver.com,1408,DIRECT
-smartadserver.com,1408,RESELLER
 smartadserver.com,2060,RESELLER
 smartadserver.com,2373,RESELLER
 smartadserver.com,2441,RESELLER
@@ -352,6 +353,8 @@ smartclip.net,10221,RESELLER
 smartclip.net,10451,RESELLER
 smartclip.net,12160,RESELLER
 smartclip.net,12824,RESELLER
+smartclip.net,2650,DIRECT
+smartclip.net,2650,RESELLER
 smartclip.net,2898,RESELLER
 smartclip.net,428,DIRECT
 smartclip.net,6780,RESELLER
@@ -409,7 +412,7 @@ spotxchange.com,304237,RESELLER,7842df1d2fe2db34
 spotxchange.com,304965,RESELLER,7842df1d2fe2db34
 spotxchange.com,71451,RESELLER,7842df1d2fe2db34
 spotxchange.com,95719,RESELLER,7842df1d2fe2db34
-stroeer.com,17447,RESELLER
+stroeer.com,17447,Reseller
 synacor.com,82101,RESELLER,e108f11b2cdf7d5b
 synacor.com,82239,RESELLER,e108f11b2cdf7d5b
 synacor.com,82401,RESELLER,e108f11b2cdf7d5b
