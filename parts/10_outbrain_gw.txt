@@ -1,0 +1,37 @@
+# outbrain (gameswelt)
+outbrain.com00391fed27240fa5f976d8caeda4a65632DIRECT
+appnexus.com7597RESELLERf5ab79cb980f11d1
+Freewheel.tv741650RESELLER # Premium video demand
+openx.com540393169RESELLER6a698e2ec38604c6 # Premium video demand
+rubiconproject.com19668RESELLER0bfd66d529a55807
+indexexchange.com190856RESELLER50b1c356f2c5c8fc # Premium Video Demand
+pubmatic.com158615RESELLER5d62403b186f2ace # Premium video & display demand
+vidazoo.com1773068026RESELLERb6ada874b4d7d0b2 # Premium Video Demand
+video.unrulymedia.com367782854RESELLER # Premium video demand from Outbrain
+indexexchange.com193091RESELLER50b1c356f2c5c8fc # Premium video demand from Outbrain
+pubmatic.com160065RESELLER5d62403b186f2ace # Premium video demand from Outbrain
+improvedigital.com1863RESELLER # Premium video demand from Outbrain
+freewheel.tv1220655RESELLER # Premium video demand from Outbrain
+risecodes.com,6022acddc8b2f90001767980RESELLER
+yahoo.com59040RESELLERe1a5b5b6e3255540
+emxdgt.com2014RESELLER1e1d41537f7cad7f
+vi.ai00391fed27240fa5f976d8caeda4a65632DIRECT #instream video by outbrain
+google.compub-5617098146054077RESELLERf08c47fec0942fa0 #instream video by outbrain
+pubmatic.com158055RESELLER5d62403b186f2ace #instream video by outbrain
+xandr.com10736RESELLER #instream video by outbrain
+rubiconproject.com21506RESELLER0bfd66d529a55807 #instream video by outbrain
+rhythmone.com1014191143RESELLERa670c89d4a324e47 #instream video by outbrain
+video.unrulymedia.com1014191143RESELLER #instream video by outbrain
+Indexexchange.com190500RESELLER #instream video by outbrain
+smartadserver.com,2776,RESELLER #instream video by outbrain
+openx.com540362347RESELLER6a698e2ec38604c6 #instream video by outbrain
+spotxchange.com304237RESELLER7842df1d2fe2db34 #instream video by outbrain
+spotx.tv304237RESELLER7842df1d2fe2db34 #instream video by outbrain
+yahoo.com59658RESELLER #instream video by outbrain
+media.net8CUIH830URESELLER #instream video by outbrain
+triplelift.com11547RESELLER6c33edb13117fd86 #instream video by outbrain
+improvedigital.com1552Reseller #instream video by outbrain
+contextweb.com562709RESELLER89ff185a4c4e857c
+aps.amazon.com3965RESELLER #instream video by outbrain
+freewheel.tv1220559RESELLER # Premium video demand from Outbrain
+freewheel.tv1133073RESELLER #instream video by outbrain
