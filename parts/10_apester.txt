@@ -194,3 +194,16 @@ pubmatic.com,158112,RESELLER,5d62403b186f2ace
 video.unrulymedia.com,3341072718,RESELLER,
 outbrain.com,009b23729e11d1f672a26b983c8023c26f,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
+copper6.com,755019,RESELLER
+smartadline.com,22866439100,RESELLER
+aps.amazon.com,d4004b5f-4fb6-4be2-82ae-0e36b8f52c12,RESELLER
+sorbet.live,s15258,RESELLER
+google.com,pub-4219948434523868,RESELLER,f08c47fec0942fa0
+appnexus.com,7918,RESELLER
+rubiconproject.com,25512,RESELLER,0bfd66d529a55807
+pubmatic.com,162914,RESELLER,5d62403b186f2ace
+spotim.market,sp_smartadline,RESELLER,077e5f709d15bdbb
+rubiconproject.com,17184,RESELLER,0bfd66d529a55807
+sharethrough.com,FXFDQVgk,RESELLER,d53b998a7bd4ecd2
+yandex.com,104880752,RESELLER
+adyoulike.com,a40a86ea548b729fc92e98b618536ba1,RESELLER
