@@ -1,4 +1,4 @@
-# ads.txt:2023-06-25T12:40:22Z
+# ads.txt:2023-11-30T14:18:38Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -43,6 +43,7 @@ advertising.com,8791,RESELLER,e1a5b5b6e3255540
 adyoulike.com,0989a3b4b345ea1f2848e5df5329ad53,RESELLER,4ad745ead2958bf7
 adyoulike.com,53264963677efeda057eef7db2cb305f,RESELLER,4ad745ead2958bf7
 adyoulike.com,63b65589edd9247f495d686f931cb9c5,RESELLER,4ad745ead2958bf7
+adyoulike.com,a40a86ea548b729fc92e98b618536ba1,RESELLER,4ad745ead2958bf7
 adyoulike.com,b4bf4fdd9b0b915f746f6747ff432bde,RESELLER,4ad745ead2958bf7
 aniview.com,5fabb425e5d4cb4bbc0ca7e4,RESELLER,78b21b97965ec3f8
 aol.com,53392,RESELLER
@@ -77,6 +78,7 @@ appnexus.com,7445,RESELLER,f5ab79cb980f11d1
 appnexus.com,7596,RESELLER,f5ab79cb980f11d1
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 appnexus.com,7666,RESELLER,f5ab79cb980f11d1
+appnexus.com,7918,RESELLER,f5ab79cb980f11d1
 appnexus.com,8233,DIRECT,f5ab79cb980f11d1
 appnexus.com,8233,RESELLER,f5ab79cb980f11d1
 appnexus.com,8381,RESELLER,f5ab79cb980f11d1
@@ -89,6 +91,7 @@ appnexus.com,9795,RESELLER,f5ab79cb980f11d1
 appnexus.com,9923,RESELLER,f5ab79cb980f11d1
 appnexus.com,9994,RESELLER,f5ab79cb980f11d1
 aps.amazon.com,33883916-428a-4649-8f26-2c7a9527dd63,RESELLER
+aps.amazon.com,d4004b5f-4fb6-4be2-82ae-0e36b8f52c12,RESELLER
 aps.amazon.com,f67fb912-2d88-4326-8009-bd2154299562,DIRECT
 axonix.com,57264,RESELLER
 beachfront.com,13749,RESELLER,e2541279e8e2ca4d
@@ -102,6 +105,7 @@ contextweb.com,562499,RESELLER,89ff185a4c4e857c
 contextweb.com,562541,RESELLER,89ff185a4c4e857c
 contextweb.com,562733,RESELLER,89ff185a4c4e857c
 conversantmedia.com,100261,RESELLER,03113cd04947736d
+copper6.com,755019,RESELLER
 criteo.com,10206,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-059210,RESELLER,9fac4a4a87c2a44f
 districtm.io,100025,RESELLER,3fd707be9c4527c3
@@ -170,6 +174,7 @@ google.com,pub-3057818873023700,RESELLER,f08c47fec0942fa0
 google.com,pub-3374111250836391,RESELLER,f08c47fec0942fa0
 google.com,pub-3737030722290655,RESELLER,f08c47fec0942fa0
 google.com,pub-4177491661596750,RESELLER,f08c47fec0942fa0
+google.com,pub-4219948434523868,RESELLER,f08c47fec0942fa0
 google.com,pub-4560331049790501,RESELLER,f08c47fec0942fa0
 google.com,pub-4939634212290203,RESELLER,f08c47fec0942fa0
 google.com,pub-5459209596458886,RESELLER,f08c47fec0942fa0
@@ -317,6 +322,7 @@ pubmatic.com,160986,RESELLER,5d62403b186f2ace
 pubmatic.com,161153,DIRECT,5d62403b186f2ace
 pubmatic.com,161683,RESELLER,5d62403b186f2ace
 pubmatic.com,162273,RESELLER,5d62403b186f2ace
+pubmatic.com,162914,RESELLER,5d62403b186f2ace
 pubmatic.com,81564,RESELLER,5d62403b186f2ace
 pubmatic.com,92509,RESELLER,5d62403b186f2ace
 pubnative.net,1006576,RESELLER,d641df8625486a7b
@@ -347,6 +353,7 @@ rubiconproject.com,16698,RESELLER,0bfd66d529a55807
 rubiconproject.com,16746,RESELLER,0bfd66d529a55807
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 rubiconproject.com,17178,RESELLER,0bfd66d529a55807
+rubiconproject.com,17184,RESELLER,0bfd66d529a55807
 rubiconproject.com,17598,RESELLER,0bfd66d529a55807
 rubiconproject.com,17692,RESELLER,0bfd66d529a55807
 rubiconproject.com,18020,RESELLER,0bfd66d529a55807
@@ -364,12 +371,14 @@ rubiconproject.com,22972,RESELLER,0bfd66d529a55807
 rubiconproject.com,23764,RESELLER,0bfd66d529a55807
 rubiconproject.com,24658,RESELLER,0bfd66d529a55807
 rubiconproject.com,24660,RESELLER,0bfd66d529a55807
+rubiconproject.com,25512,RESELLER,0bfd66d529a55807
 rubiconproject.com,8769,RESELLER,0bfd66d529a55807
 rubiconproject.com,9753,RESELLER,0bfd66d529a55807
 rubiconproject.com,9755,RESELLER,0bfd66d529a55807
 sharethrough.com,0177541a,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,40y1YYSV,DIRECT,d53b998a7bd4ecd2
 sharethrough.com,7144eb80,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,FXFDQVgk,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,TZ1ahFV8,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,e6afc1ec,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,rpEqPkks,DIRECT,d53b998a7bd4ecd2
@@ -377,6 +386,7 @@ sharethrough.com,xz7QjFBY,RESELLER,d53b998a7bd4ecd2
 smaato.com,1100044045,RESELLER,07bcf65f187117b4
 smaato.com,1100044650,RESELLER,07bcf65f187117b4
 smaato.com,1100047713,RESELLER,07bcf65f187117b4
+smartadline.com,22866439100,RESELLER
 smartadserver.com,1692,RESELLER
 smartadserver.com,2060,RESELLER
 smartadserver.com,2373,RESELLER
@@ -444,12 +454,14 @@ smartstream.tv,812,RESELLER
 smartyads.com,100034,RESELLER,fd2bde0ff2e62c5d
 smilewanted.com,4137,RESELLER
 sonobi.com,7f5fa520f8,RESELLER,d1a215d9eb5aee9e
+sorbet.live,s15258,RESELLER
 sovrn.com,257611,RESELLER,fafdf38b16bf6b2b
 sovrn.com,264726,RESELLER,fafdf38b16bf6b2b
 sovrn.com,342939,RESELLER,fafdf38b16bf6b2b
 sovrn.com,375328,RESELLER,fafdf38b16bf6b2b
 sovrn.com,379304,DIRECT,fafdf38b16bf6b2b
 sovrn.com,383910,RESELLER,fafdf38b16bf6b2b
+spotim.market,sp_smartadline,RESELLER,077e5f709d15bdbb
 spotx.tv,108933,RESELLER,7842df1d2fe2db34
 spotx.tv,113481,RESELLER,7842df1d2fe2db34
 spotx.tv,151986,RESELLER,7842df1d2fe2db34
@@ -551,6 +563,7 @@ yahoo.com,59658,RESELLER,e1a5b5b6e3255540
 yahoo.com,59701,RESELLER,e1a5b5b6e3255540
 yahoo.com,59702,RESELLER,e1a5b5b6e3255540
 yahoo.com,60061,RESELLER,e1a5b5b6e3255540
+yandex.com,104880752,RESELLER
 yieldlab.net,11114007,DIRECT
 yieldlab.net,163835,DIRECT
 yieldlab.net,163835,RESELLER
