@@ -1,4 +1,4 @@
-# ads.txt:2024-03-28T14:28:16Z
+# ads.txt:2024-03-28T14:33:44Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
