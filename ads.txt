@@ -1,4 +1,4 @@
-# ads.txt:2024-03-28T14:33:44Z
+# ads.txt:2024-03-28T15:16:42Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -566,6 +566,7 @@ yahoo.com,59702,RESELLER,e1a5b5b6e3255540
 yahoo.com,60061,RESELLER,e1a5b5b6e3255540
 yandex.com,104880752,RESELLER
 yieldlab.net,11114007,DIRECT
+yieldlab.net,15465081,RESELLER
 yieldlab.net,163835,DIRECT
 yieldlab.net,163835,RESELLER
 yieldlab.net,2172218,RESELLER
