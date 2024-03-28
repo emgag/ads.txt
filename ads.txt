@@ -1,4 +1,4 @@
-# ads.txt:2023-11-30T14:18:38Z
+# ads.txt:2024-03-28T14:28:16Z
 contact=sales@wasdmedia.de
 contact=https://wasdmedia.de/
 # ---
@@ -323,6 +323,7 @@ pubmatic.com,161153,DIRECT,5d62403b186f2ace
 pubmatic.com,161683,RESELLER,5d62403b186f2ace
 pubmatic.com,162273,RESELLER,5d62403b186f2ace
 pubmatic.com,162914,RESELLER,5d62403b186f2ace
+pubmatic.com,164562,RESELLER,5d62403b186f2ace
 pubmatic.com,81564,RESELLER,5d62403b186f2ace
 pubmatic.com,92509,RESELLER,5d62403b186f2ace
 pubnative.net,1006576,RESELLER,d641df8625486a7b
